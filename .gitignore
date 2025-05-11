@@ -1,0 +1,9 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Libraries
+lib/
+
+# If using virtual environments, you could also ignore venv
+venv/
